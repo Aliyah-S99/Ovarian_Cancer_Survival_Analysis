@@ -48,7 +48,8 @@ This project explores 5-year survival outcomes for ovarian cancer in the UK, wit
 
 ## 📷 Preview
 
-> Include a screenshot of the Power BI dashboard here (e.g., `visuals/dashboard.png`)
+> <img width="476" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/481d9901-4081-41ef-9367-8bcf2d1e912c" />
+
 
 ---
 
